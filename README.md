@@ -22,5 +22,10 @@ Frontend:
 - CSS
 - Tailwind CSS
 - Vite
+
+https://github.com/user-attachments/assets/d0ea384b-c490-4341-b569-5435b005e06b
+
+
+
   
 
