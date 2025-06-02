@@ -41,6 +41,7 @@
             <div class="flex space-x-6 text-sm">
                 <a href="/profile" class="hover:underline">Profile</a>
                 <a href="/cart" class="hover:underline">Cart</a>
+                <a href="/wishlist" class="hover:underline">Wishlist</a>
                 <button class="bg-black text-white px-4 py-1 rounded hover:bg-gray-800">Logout</button>
             </div>
         </div>
