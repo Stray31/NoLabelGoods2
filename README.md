@@ -11,6 +11,7 @@ KEY FEATURES
 - Deposit money into profile for purchases
 
 Tech Stack
+
 Backend:
 - PHP 8.2+
 - Laravel 12.0
